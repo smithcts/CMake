@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/colten/Documents/CPP_Testing/test.cpp
+/home/colten/git/CMake/CPP_Testing/test.cpp
 iostream
 -
 

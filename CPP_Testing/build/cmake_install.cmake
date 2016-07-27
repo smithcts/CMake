@@ -1,4 +1,4 @@
-# Install script for directory: /home/colten/Documents/CPP_Testing
+# Install script for directory: /home/colten/git/CMake/CPP_Testing
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/colten/Documents/CPP_Testing/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/colten/git/CMake/CPP_Testing/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
