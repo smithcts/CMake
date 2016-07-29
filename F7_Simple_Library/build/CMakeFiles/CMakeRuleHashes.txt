@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+efb4a207f9e5a82be80bddf0ab271864 CMakeFiles/Template.bin
+f23875bbed0a7027e7bd34b2185fe159 CMakeFiles/Template.hex
+3fe00e3b0adfeca7fa76829e3af28b1e CMakeFiles/clean-all
+586eb4b6d49745871b93227501b22284 CMakeFiles/flash
+0c26393eca8a8dddfdb4078b89ce4ea5 CMakeFiles/size
